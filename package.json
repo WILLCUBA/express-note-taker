@@ -1,0 +1,27 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WILLCUBA/express-note-taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/WILLCUBA/express-note-taker/issues"
+  },
+  "homepage": "https://github.com/WILLCUBA/express-note-taker#readme"
+}
